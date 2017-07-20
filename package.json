@@ -22,7 +22,7 @@
     "bower": "1.x",
     "cheerio": "0.15.x",
     "child-pool": "1.x",
-    "growl": "1.x",
+    "growl": "1.8.0",
     "underscore": "1.x"
   },
   "peerDependencies": {
